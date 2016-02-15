@@ -1,0 +1,118 @@
+name,Phylogroup,Serotype,Origin,Country
+2255_1,1,O:5,Human,United Kingdom
+4976_1_1,1,O:6,30,Human,United Kingdom
+5749_7_1,1,O:5,27,Cattle,United Kingdom
+4976_1_4,1,O:6,30,Cattle,United Kingdom
+4976_1_5,1,NK,Cattle,United Kingdom
+4976_1_9,1,O:6,30,Pig,United Kingdom
+4976_2_10,1,O:19,8,Human,United Kingdom
+4976_2_3,1,O:6,30,Sheep,United Kingdom
+5749_7_3,1,O:9,Human,United Kingdom
+4976_2_7,1,NK,Pig,United Kingdom
+4976_2_8,1,O:6,30,Human,United Kingdom
+4976_2_9,1,O:6,30,Pig,United Kingdom
+4976_3_3,1,O:5,Human,United Kingdom
+4976_3_5,1,NK,Sheep,New Zealand
+4976_6_4,1,O:5,Pig,United Kingdom
+4976_6_5,1,Nag,Human,New Zealand
+4976_6_7,1,NK,Human,New Zealand
+4976_6_9,1,NK,Human,New Zealand
+4976_7_6,1,O:5,Human,Germany
+4976_7_9,1,O:7,8,Pig,Germany
+5103_7_1,1,O:19,8,Cattle,United Kingdom
+5103_7_11,1,NK,Human,United Kingdom
+5103_7_3,1,O:19,8,Pig,United Kingdom
+5103_7_4,1,O:6,30,Human,United Kingdom
+5103_7_7,1,O:5,Human,New Zealand
+5116_2_2,1,O:6,30,Pig,United Kingdom
+5116_2_3,1,O:13,7,Human,Germany
+5116_2_4,1,O:6,30,Sheep,United Kingdom
+5116_2_8,1,O:6,30,Human,United Kingdom
+5116_2_9,1,O:5,Human,United Kingdom
+5116_3_4,1,O:5,Human,Germany
+5749_7_4,1,ND,Avian,New Zealand
+8016_2_61,1,O:7,8,19,Bovine,France
+8016_2_62,1,O:5,Chicken,Italy
+8016_2_63,1,O:6,30,Human,France
+8081,2,O:8,Human,United Kingdom
+4976_7_7,2,O:8,Human,Germany
+4976_7_8,2,O:21,Human,Germany
+5116_3_2,2,O:8,Human,Germany
+5116_3_5,2,O:8b,e,f,i,NK,United Kingdom
+5116_3_7,2,O:8,Human,Germany
+8016_2_75,2,O:8,Human,Belgium
+8016_2_76,2,O:4,32,Human,NK
+8016_2_77,2,O:21,Human,NK
+8016_2_78,2,NK,NK,NK
+8016_2_79,2,O:13,18,Human,United Kingdom
+8016_2_72,3,O:3,Human,Australia
+8016_2_71,3,O:3,Human,France
+8016_2_74,3,O:3,Human,France
+8016_2_73,3,O:3,Human,France
+2255_6,3,O:3,Human,United Kingdom
+4976_3_2,3,O:3,Human,United Kingdom
+4976_3_1,3,O:3,Pig,United Kingdom
+4976_6_3,3,O:3,Pig,United Kingdom
+5116_3_6,3,O:3,Human,NK
+5116_3_9,3,O:3,Pig,NK
+4976_7_1,3,O:3,Human,NK
+4976_3_4,3,O:3,Human,New Zealand
+5103_7_6,3,O:3,Human,New Zealand
+4976_6_10,3,O:3,Human,New Zealand
+4976_3_8,3,O:3,Animal,New Zealand
+5103_7_9,3,nd,Human,New Zealand
+4976_3_7,3,O:3,Dog,New Zealand
+5103_7_5,3,O:3,Human,New Zealand
+4976_6_1,3,O:3,Human,New Zealand
+8016_2_69,4,O:5,27,Human,France
+8016_2_70,4,O:5,27,Human,France
+8016_2_64,4,O:5,27,Milk,Greece
+8016_2_65,4,O:5,27,Human,France
+2255_7,4,O:5,27,Sheep,United Kingdom
+5749_7_2,4,O:5,27,Pig,United Kingdom
+5116_3_1,4,O:5,27,Human,NK
+4976_7_4,4,O:5,27,Human,Germany
+5103_7_2,4,O:5,27,Pig,United Kingdom
+5103_7_10,4,O:5,27,Cattle,United Kingdom
+5116_2_11,4,O:5,27,Human,United Kingdom
+4976_1_8,4,O:5,27,Human,United Kingdom
+4976_1_10,4,O:5,27,Pig,United Kingdom
+4976_2_5,4,O:5,27,Pig,United Kingdom
+4976_6_6,4,O:5,27,Meat,New Zealand
+5116_2_6,4,O:5,27,Pig,United Kingdom
+4976_7_3,5,O:9,Pig,NK
+8016_2_68,5,O:9,Human,France
+8016_2_66,5,O:9,Human,Spain
+5116_3_8,5,O:9,Human,Germany
+W22703,5,O:9,Human,Belgium
+4976_7_5,5,O:9,NK,NK
+4976_6_2,5,O:9,Pig,United Kingdom
+4976_2_2,5,O:9,Pig,United Kingdom
+4976_1_7,5,O:9,Human,United Kingdom
+4976_1_11,5,O:9,Human,United Kingdom
+4976_2_11,5,O:9,Pig,United Kingdom
+YE21202,5,O:9,Pig,United Kingdom
+2255_3,5,O:9,Human,United Kingdom
+5116_2_5,5,O:9,Pig,United Kingdom
+4976_1_6,5,O:9,Sheep,United Kingdom
+5116_2_1,5,O:9,Pig,United Kingdom
+4976_1_3,5,O:9,Human,United Kingdom
+4976_6_8,5,O:9,Human,New Zealand
+4840_6_6,5,O:9,Pig,Ireland
+4840_7_8,5,NK,Human,Ireland
+5749_7_5,5,O:9,Human,United
+5103_7_8,5,O:9,Human,New Zealand
+4976_3_9,5,O:9,Human,New Zealand
+4976_3_10,5,O:9,Human,New Zealand
+4976_3_6,5,O:9,Human,New Zealand
+4976_6_11,5,O:9,Human,New Zealand
+5116_3_3,5,O:9,NK,NK
+4976_7_2,5,O:9,NK,Germany
+8016_2_67,5,O:9,Pig,United Kingdom
+8016_2_82,6,O:2,3,Hare,United Kingdom
+8016_2_83,6,O:1,2,3,Hare,Belgium
+4976_7_10,6,O:2,3,NK,NK
+8016_2_86,6,O:3,Hare,France
+8016_2_81,6,O:1,2,3,Cattle,France
+8016_2_85,6,O:1,2,3,Hare,France
+4501_2,6,O:2,3,Hare,Europe
