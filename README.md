@@ -5,11 +5,14 @@ These are the raw files which are used to load example data. Please contact the 
 
 ### datasets:
 
-PMEN1 data (Gubbins / BRAT NextGen): [Dr. Nick Croucher](n.croucher@imperial.ac.uk)
+PMEN1 data (Gubbins / BRAT NextGen): [Dr. Nick Croucher](mailto:n.croucher@imperial.ac.uk)
 
-Pneumococcal GWAS: [Dr. Claire Chewapreecha](cc12@sanger.ac.uk)
+Pneumococcal GWAS: [Dr. Claire Chewapreecha](mailto:cc12@sanger.ac.uk)
 
-SPARC pan genome data: [Dr. Nick Croucher](n.croucher@imperial.ac.uk)
+SPARC pan genome data: [Dr. Nick Croucher](mailto:n.croucher@imperial.ac.uk)
 
-Yersinia Enterocolitica: [Dr. Alan McNally](alan.mcnally@ntu.ac.uk)
+Yersinia Enterocolitica: [Dr. Alan McNally](mailto:alan.mcnally@ntu.ac.uk)
 
+Salmonella Weltevreden: [Carine Makendi](mailto:cm11@sanger.ac.uk)
+
+Legionella pneumophila: [Dr. Leonor Sánchez-Busó](mailto:lsb@sanger.ac.uk)
