@@ -68,4 +68,12 @@ If you wish to re-use this data in any form, please contact the people listed be
 
 * [Raw files for phandango](gubbinsGono)
 
-* Publication: [Grad *et al.,* Lancet Indec Dis 2014](http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(13)70693-5/abstract)
+* Publication: [Grad *et al.,* Lancet Indec Dis 2014](http://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2813%2970693-5/abstract)
+
+**_Chlamydia Trachomatis_ (Metadata + Gubbins)**
+
+* Contact: [Dr. Nick Thomson](nrt@sanger.ac.uk)
+
+* [Raw files for phandango](gubbinsCTGD)
+
+* Publication: [Hadfield *et al.,* Genome Research 2017](http://genome.cshlp.org/content/27/7/1220.full)
