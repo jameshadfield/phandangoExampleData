@@ -1,0 +1,119 @@
+ID,In_Silico_ST, CC,In_Silico_Serotype,In_Silico_Serotype:colour,Country,Country:colour,Continent,Continent:colour,Predicted_PEN_MIC_CLSI_meningitis,Predicted_PEN_MIC_CLSI_meningitis:colour,SXT_predict_by_geno_CLSI,SXT_predict_by_geno_CLSI:colour,cat_CLSI,cat_CLSI:colour,ermB_CLSI,ermB_CLSI:colour,mef_CLSI,mef_CLSI:colour,tet,tet:colour,MDR,MDR:colour
+15608_2#92,244,ST244,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11822_1#26,244,ST244,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#81,244,ST244,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#5,244,ST244,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11826_1#78,9557,ST9557,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15277_1#4,undeterminable,STundeterminable3,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_4#31,853,CC5660,4,#9020aa,Mozambique,#b5002d,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_4#14,853,CC5660,4,#9020aa,Mozambique,#b5002d,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14555_3#78,853,CC5660,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14412_2#66,853,CC5660,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_4#61,5660,CC5660,4,#9020aa,Mozambique,#b5002d,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13415_7#16,5660,CC5660,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15682_1#33,247,CC899,4,#9020aa,Poland,#2b6700,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_4#31,246,CC899,19A,#43bbff,Slovenia,#4e5718,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#51,246,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+19084_8#157,247,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_2#34,247,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15682_2#19,246,CC899,14,#0156b8,Poland,#2b6700,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22841_4#69,695,CC899,19A,#43bbff,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22667_7#148,695,CC899,19A,#43bbff,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22027_1#143,695,CC899,19A,#43bbff,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+17966_5#140,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+17966_5#135,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_4#73,695,CC899,19A,#43bbff,Trinidad and Tobago,#ff8258,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_4#41,695,CC899,19A,#43bbff,Trinidad and Tobago,#ff8258,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_3#26,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_4#56,695,CC899,19F,#a5b4ff,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_4#48,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_4#42,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_4#26,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#78,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#77,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#55,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#19,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#17,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#11,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_2#95,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,S,#4dbc6b,No,#4dbc6b
+14673_2#79,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_2#50,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_1#66,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13710_2#72,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13710_2#66,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_4#23,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_3#41,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_3#38,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_3#17,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_2#94,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_2#52,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13353_7#89,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,S,#4dbc6b,No,#4dbc6b
+13154_3#22,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12299_1#10,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_5#69,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#78,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#60,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#57,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#41,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#35,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#31,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,S,#4dbc6b,No,#4dbc6b
+12291_4#21,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11679_1#29,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,S,#4dbc6b,No,#4dbc6b
+11657_4#36,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_4#24,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#47,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#29,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#10,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_1#85,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_8#46,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_8#22,695,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#85,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#75,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#67,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,S,#4dbc6b,No,#4dbc6b
+11511_7#66,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#17,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#10,695,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_3#5,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#79,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,tetM1,#ff2722,No,#4dbc6b
+14673_3#47,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_2#53,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_2#25,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_4#64,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11658_1#16,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#39,899,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_1#63,2365,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11658_2#94,2365,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#19,9561,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_2#48,9934,CC899,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13710_2#38,12714,CC899,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15682_1#86,205,CC205,4,#9020aa,Poland,#2b6700,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15682_1#34,205,CC205,4,#9020aa,Poland,#2b6700,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_4#8,205,CC205,4,#9020aa,Slovenia,#4e5718,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_4#6,205,CC205,4,#9020aa,Slovenia,#4e5718,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+23164_8#134,205,CC205,4,#9020aa,Israel,#f9d3e7,Asia,#cb5e43,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22841_4#127,205,CC205,4,#9020aa,Israel,#f9d3e7,Asia,#cb5e43,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22841_3#73,205,CC205,4,#9020aa,Israel,#f9d3e7,Asia,#cb5e43,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+22667_7#179,205,CC205,4,#9020aa,Israel,#f9d3e7,Asia,#cb5e43,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_2#86,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_2#76,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15608_2#45,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14913_3#29,205,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#91,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14673_3#59,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14555_4#54,205,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14520_6#49,205,CC205,4,#9020aa,Senegal,#ffa9eb,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14410_8#90,205,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13414_1#22,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11826_1#69,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11822_1#27,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11791_1#22,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11658_1#9,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11657_1#83,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_8#44,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_7#18,205,CC205,4,#9020aa,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13154_2#89,206,CC205,4,#9020aa,Peru,#a5abff,South America,#8176cc,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11658_2#46,206,CC205,4,#9020aa,Peru,#a5abff,South America,#8176cc,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11658_2#13,206,CC205,4,#9020aa,Peru,#a5abff,South America,#8176cc,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14555_3#35,10612,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13415_5#72,10612,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+13415_4#30,10612,CC205,4,#9020aa,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b

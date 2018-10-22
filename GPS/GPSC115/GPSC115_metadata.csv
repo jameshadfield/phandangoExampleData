@@ -1,0 +1,27 @@
+ID,In_Silico_ST, CC,In_Silico_Serotype,In_Silico_Serotype:colour,Country,Country:colour,Continent,Continent:colour,Predicted_PEN_MIC_CLSI_meningitis,Predicted_PEN_MIC_CLSI_meningitis:colour,SXT_predict_by_geno_CLSI,SXT_predict_by_geno_CLSI:colour,cat_CLSI,cat_CLSI:colour,ermB_CLSI,ermB_CLSI:colour,mef_CLSI,mef_CLSI:colour,tet,tet:colour,MDR,MDR:colour
+19084_8#99,1662,ST1662,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+19084_8#5,1662,ST1662,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12838_1#75,1662,ST1662,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+11511_8#69,1662,ST1662,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+19084_8#9,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_8#62,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,I,#f797b1,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1-promotor-del,#007e56,Yes,#ff2722
+19084_8#6,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_7#91,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_7#148,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13353_7#9,135,CC1348,6B,#3c9f00,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13154_2#54,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12291_4#1,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+12291_3#35,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11893_8#29,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1-promotor-del,#007e56,Yes,#ff2722
+11658_2#37,135,CC1348,6B,#3c9f00,Peru,#a5abff,South America,#8176cc,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15682_2#70,135,CC1348,6B,#3c9f00,Poland,#2b6700,Europe,#c75a93,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15682_2#44,135,CC1348,6B,#3c9f00,Poland,#2b6700,Europe,#c75a93,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1-promotor-del,#007e56,Yes,#ff2722
+15682_2#37,135,CC1348,6B,#3c9f00,Poland,#2b6700,Europe,#c75a93,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15682_1#92,135,CC1348,6B,#3c9f00,Poland,#2b6700,Europe,#c75a93,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15682_1#36,135,CC1348,6B,#3c9f00,Poland,#2b6700,Europe,#c75a93,R,#ff2722,R,#ff2722,cat1,#ff2722,ermB1,#ff2722,S,#4dbc6b,tetM1-promotor-del,#007e56,Yes,#ff2722
+17794_8#3,1348,CC1348,6B,#3c9f00,The Gambia,#ffb67a,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14520_7#86,1348,CC1348,6B,#3c9f00,Niger,#7f3774,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14520_6#31,1348,CC1348,6B,#3c9f00,Ghana,#01a545,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14520_6#14,1348,CC1348,6B,#3c9f00,Ghana,#01a545,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14520_6#35,10808,CC1348,6B,#3c9f00,Ghana,#01a545,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+21242_2#128,13866,CC1348,6B,#3c9f00,BRAZIL,#cb5a4c,South America,#8176cc,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b

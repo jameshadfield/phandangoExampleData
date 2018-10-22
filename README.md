@@ -77,3 +77,10 @@ If you wish to re-use this data in any form, please contact the people listed be
 * [Raw files for phandango](gubbinsCTGD)
 
 * Publication: [Hadfield *et al.,* Genome Research 2017](http://genome.cshlp.org/content/27/7/1220.full)
+
+
+**Global Pneumococcal Sequencing Project Datasets**
+
+* Contact: [Prof. Stephen D. Bentley](sdb@sanger.ac.uk) and [Dr. Rebecca Gladstone](rg9@sanger.ac.uk)
+
+* [Raw files for phandango](GPS)

@@ -1,0 +1,278 @@
+ID,In_Silico_ST, CC,In_Silico_Serotype,In_Silico_Serotype:colour,Country,Country:colour,Continent,Continent:colour,Predicted_PEN_MIC_CLSI_meningitis,Predicted_PEN_MIC_CLSI_meningitis:colour,SXT_predict_by_geno_CLSI,SXT_predict_by_geno_CLSI:colour,cat_CLSI,cat_CLSI:colour,ermB_CLSI,ermB_CLSI:colour,mef_CLSI,mef_CLSI:colour,tet,tet:colour,MDR,MDR:colour
+17138_5#13,7645,ST7645,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_6#14,7645,ST7645,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#42,7645,ST7645,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9789_4#39,9468,ST9468,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+15378_3#7,9468,ST9468,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+15531_3#91,10894,ST10894,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#52,11029,ST11029,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17794_7#77,12334,ST12334,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#43,12723,ST12723,14,#0156b8,Ghana,#01a545,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14913_8#50,12738,ST12738,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+17175_7#2,2613,CC12576,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17138_3#24,2613,CC12576,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14913_4#2,12576,CC12576,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9789_3#76,5435,CC10608,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+18456_1#88,5435,CC10608,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+18456_1#66,5435,CC10608,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+17794_8#187,5435,CC10608,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15531_2#60,5435,CC10608,3,#7bcd36,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15378_4#37,10608,CC10608,33F,#006933,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+15378_4#32,10608,CC10608,33F,#006933,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14936_5#64,10608,CC10608,33F,#006933,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+17870_8#126,12260,CC10608,33F,#006933,Malawi,#e63d2d,Africa,#5baf6c,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+9789_4#56,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9789_2#9,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9789_2#83,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+9789_2#75,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9789_2#28,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+9716_7#37,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_4#183,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_4#170,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_4#105,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#41,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#4,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#33,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#137,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#131,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_2#100,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_1#8,63,CC63,19A,#43bbff,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22841_1#125,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+22027_1#164,63,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+21999_8#10,63,CC63,15A,#c5ac00,BRAZIL,#cb5a4c,South America,#8176cc,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+21127_1#75,63,CC63,23F,#ffa2e0,Belarus,#90da4c,Europe,#c75a93,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+20925_3#93,63,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+20925_3#6,63,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+20287_5#120,63,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,S,#4dbc6b,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+19084_8#169,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_7#20,63,CC63,14,#0156b8,Qatar,#8bc0ff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17966_5#27,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17966_5#134,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17870_8#94,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+17870_8#25,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17870_8#18,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17870_8#119,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17870_8#101,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17870_7#60,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17870_7#182,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17794_8#26,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17794_8#14,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17794_7#126,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17428_8#184,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17175_7#56,63,CC63,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17175_6#52,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+17138_5#42,63,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16399_7#39,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16399_6#55,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16399_6#43,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16399_6#27,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#75,63,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,tetM1,#ff2722,Yes,#ff2722
+16288_5#35,63,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#34,63,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15995_1#26,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15995_1#22,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15874_1#78,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15874_1#76,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15874_1#34,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15873_3#14,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15873_2#41,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15841_3#79,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15841_3#74,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15841_1#83,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15841_1#68,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15841_1#61,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15841_1#11,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15531_6#5,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15531_6#35,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15531_5#85,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15531_5#56,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_4#76,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15531_2#93,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_2#46,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_2#39,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15378_4#95,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15378_4#19,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15378_4#13,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15378_3#95,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15378_2#9,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14936_5#59,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14936_5#50,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14936_5#34,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14913_7#7,63,CC63,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_6#41,63,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14723_4#42,63,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14723_2#45,63,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_2#38,63,CC63,14,#0156b8,Central African Republic,#01e07b,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14673_4#86,63,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14673_4#40,63,CC63,23B,#01832a,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14673_1#79,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14566_6#75,63,CC63,15A,#c5ac00,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14566_6#6,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14566_5#90,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14566_5#50,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14566_4#89,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14555_4#73,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14555_4#10,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14555_3#95,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14555_3#53,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14555_3#41,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+14520_7#33,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_7#13,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_7#11,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_6#54,63,CC63,14,#0156b8,Senegal,#ffa9eb,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#53,63,CC63,14,#0156b8,Senegal,#ffa9eb,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#51,63,CC63,14,#0156b8,Togo,#924e57,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#41,63,CC63,14,#0156b8,Ghana,#01a545,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#40,63,CC63,14,#0156b8,Ghana,#01a545,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_6#29,63,CC63,14,#0156b8,Ghana,#01a545,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_6#20,63,CC63,14,#0156b8,Ghana,#01a545,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14520_5#46,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_5#32,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_5#10,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14520_4#2,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14412_1#48,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14412_1#41,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14412_1#11,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_8#77,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14410_7#71,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_7#56,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_5#14,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14257_1#74,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14257_1#10,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13710_2#16,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13710_2#1,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13710_1#6,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13710_1#49,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13415_8#17,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13415_7#54,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13415_5#35,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13414_4#39,63,CC63,19A,#43bbff,USA,#995300,North America,#c7a845,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13414_2#46,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13414_2#37,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13414_1#15,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13353_7#55,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12837_5#52,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_4#56,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_4#25,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_3#44,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_1#78,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_1#55,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12291_6#9,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12291_6#74,63,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12291_4#18,63,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12290_2#34,63,CC63,14,#0156b8,Malawi,#e63d2d,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11658_1#63,63,CC63,14,#0156b8,Senegal,#ffa9eb,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+10395_5#52,63,CC63,14,#0156b8,Cameroun,#50d251,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+10395_5#34,63,CC63,14,#0156b8,Cameroun,#50d251,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,No,#4dbc6b
+10395_5#33,63,CC63,14,#0156b8,Togo,#924e57,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#54,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#50,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_2#177,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#93,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#52,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#102,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+24775_1#64,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#88,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#100,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_2#163,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14673_1#15,782,CC63,14,#0156b8,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13414_4#27,782,CC63,14,#0156b8,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12291_6#16,782,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+11893_8#3,782,CC63,14,#0156b8,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11658_1#15,782,CC63,14,#0156b8,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11511_7#61,782,CC63,14,#0156b8,USA,#995300,North America,#c7a845,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15873_3#17,861,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_7#61,861,CC63,14,#0156b8,Qatar,#8bc0ff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#108,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11791_1#52,63,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#42,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#28,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13415_8#44,1191,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+24775_1#84,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+19341_3#21,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+18090_2#20,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15682_1#44,2100,CC63,19F,#a5b4ff,Poland,#2b6700,Europe,#c75a93,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+19341_2#165,4652,CC63,14,#0156b8,China,#01a943,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19341_3#36,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17150_5#34,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17150_4#36,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15995_1#12,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15873_1#6,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1-promotor-del,#007e56,Yes,#ff2722
+15731_8#74,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+15731_8#7,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14412_1#67,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14412_1#12,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14257_1#35,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13470_1#61,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13470_1#25,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13415_7#17,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+12837_5#11,2414,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_6#79,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_6#68,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+15531_4#88,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_7#35,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_5#79,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14410_5#5,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_4#80,2447,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+22114_6#52,2675,CC63,19F,#a5b4ff,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+19084_7#42,2678,CC63,19F,#a5b4ff,Qatar,#8bc0ff,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_6#78,3310,CC63,14,#0156b8,The Gambia,#ffb67a,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+22841_1#184,3816,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#74,4532,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_6#43,4902,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_4#55,4902,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_4#49,4902,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_4#20,4902,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_3#69,4902,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14673_4#81,4907,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14566_5#28,5004,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_6#16,5187,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_4#92,5187,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+20925_3#51,5285,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_7#20,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_7#14,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_6#9,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_6#29,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#20,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_4#77,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_4#46,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,tetM1,#ff2722,Yes,#ff2722
+16288_3#80,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_3#33,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_3#13,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_3#12,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_3#11,5285,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+18090_1#108,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_2#65,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_2#64,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,S,#4dbc6b,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14723_2#63,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_2#59,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+14723_2#57,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,No,#4dbc6b
+14723_2#17,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_2#15,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_2#10,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_1#95,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_1#82,6043,CC63,14,#0156b8,Bangladesh,#a67f00,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14723_6#23,7061,CC63,14,#0156b8,Mozambique,#b5002d,Africa,#5baf6c,R,#ff2722,I,#f797b1,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_4#74,7551,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#54,7552,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,mef1,#ff2722,tetM1,#ff2722,Yes,#ff2722
+14673_4#61,8324,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17175_6#68,9352,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+11657_4#37,9939,CC63,15A,#c5ac00,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13415_5#83,10737,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+13415_8#96,10758,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16288_4#66,11018,CC63,NT,#525706,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16288_5#11,11022,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_5#63,11030,CC63,14,#0156b8,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+16288_6#55,11041,CC63,NT,#525706,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16288_6#51,11041,CC63,NT,#525706,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+20287_5#123,11399,CC63,14,#0156b8,India,#e49aff,Asia,#cb5e43,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14555_3#12,11687,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+13415_8#41,11687,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+12837_5#46,11687,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+19341_2#178,63,CC63,15A,#c5ac00,China,#01a943,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+17966_5#144,12360,CC63,19A,#43bbff,USA,#995300,North America,#c7a845,R,#ff2722,I,#f797b1,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+18090_1#85,12364,CC63,14,#0156b8,Egypt,#ce4300,Africa,#5baf6c,R,#ff2722,R,#ff2722,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14410_8#57,12555,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,R,#ff2722,cat1,#ff2722,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
+14555_3#10,12559,CC63,14,#0156b8,South Africa,#b18ebf,Africa,#5baf6c,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+16288_5#28,12787,CC63,NT,#525706,Nepal,#a1d48d,Asia,#cb5e43,R,#ff2722,I,#f797b1,S,#4dbc6b,S,#4dbc6b,S,#4dbc6b,tetM1,#ff2722,No,#4dbc6b
+22841_2#16,13952,CC63,15A,#c5ac00,Israel,#f9d3e7,Asia,#cb5e43,R,#ff2722,S,#4dbc6b,S,#4dbc6b,ermB1,#ff2722,S,#4dbc6b,tetM1,#ff2722,Yes,#ff2722
