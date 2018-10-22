@@ -64,7 +64,7 @@ If you wish to re-use this data in any form, please contact the people listed be
 
 **_Neisseria gonorrhoeae_ (Gubbins)**
 
-* Contact: [Dr. Yonatan Grad](yhgrad@gmail.com)
+* Contact: [Dr. Yonatan Grad](mailto:yhgrad@gmail.com)
 
 * [Raw files for phandango](gubbinsGono)
 
@@ -72,7 +72,7 @@ If you wish to re-use this data in any form, please contact the people listed be
 
 **_Chlamydia Trachomatis_ (Metadata + Gubbins)**
 
-* Contact: [Dr. Nick Thomson](nrt@sanger.ac.uk)
+* Contact: [Dr. Nick Thomson](mailto:nrt@sanger.ac.uk)
 
 * [Raw files for phandango](gubbinsCTGD)
 
@@ -81,6 +81,6 @@ If you wish to re-use this data in any form, please contact the people listed be
 
 **Global Pneumococcal Sequencing Project Datasets**
 
-* Contact: [Prof. Stephen D. Bentley](sdb@sanger.ac.uk) and [Dr. Rebecca Gladstone](rg9@sanger.ac.uk)
+* Contact: [Prof. Stephen D. Bentley](mailto:sdb@sanger.ac.uk) and [Dr. Rebecca Gladstone](mailto:rg9@sanger.ac.uk)
 
 * [Raw files for phandango](GPS)
